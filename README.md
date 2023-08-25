@@ -1,1 +1,1 @@
-# new-relic-example-dashboards
+# New Relic Example Dashboards
